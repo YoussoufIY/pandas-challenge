@@ -1,0 +1,9 @@
+PyCitySchools Analysis
+--------------------
+Summary Analysis
+--------------------
+The analysis includes a total of 15 schools. The schools are analyzed by their grades, scores, budgets and sizes. 
+--------------------
+Observation 1: On average, Charter schools yield greater overall passing rates than District schools.
+Observation 2: On average, small and medium sized schools (less than 2000 students) yield greater overall passing rates than larger schools (more than 2000 students).
+--------------------
